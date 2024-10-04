@@ -11,4 +11,6 @@
 10: Created .prettierrc file for permannent format setting and .prettierignore for ignoring format for mentioned files
 11: Create Mongo DB online and pasted key in env
 12: Installed dependencies of Mongo, Express and ENV by command (npm i mongoose express dotenv)
-13: Made a connectDB function in index.js to try to connect to MongoDB and catch error
+13: Made a connectDB function in db.js to try to connect to MongoDB and catch error
+14: Edting connectDB function to make it connect express to mongo DB
+15: Installed Cookie parser and cors with command "npm i cookie-parser cors".
